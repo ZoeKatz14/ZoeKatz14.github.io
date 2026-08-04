@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to the Scientific Study of Language"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course TA"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Rice University, Department of Linguistics"
 date: 2014-01-01
 location: "City, Country"
 ---
