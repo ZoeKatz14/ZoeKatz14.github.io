@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Click [here](../files/cv.pdf) for a recent CV.
+
+<!-- Education
 ======
 * Ph.D in Linguistics, Rutgers University, 2029 (expected)
 * B.A. in Linguistics, Rice University, 2024
-* B.S. in Computer Science with a minor in Data Science, Rice University, 2024
+* B.S. in Computer Science with a minor in Data Science, Rice University, 2024 -->
 
 <!-- Work experience
 ======
