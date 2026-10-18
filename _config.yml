@@ -27,7 +27,7 @@ author:
   name             : "Zoe Katz"
   pronouns         : "she/her"  
   bio              : "PhD student"
-  location         : "Earth"
+  location         : "New Jersey, USA"
   employer         : "Rutgers University"
   uri              : # URL
   email            : "zoe.katz@rutgers.edu" 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/zoe-katz-52184b1a1/"
+  linkedin         : "/zoe-katz-52184b1a1/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
